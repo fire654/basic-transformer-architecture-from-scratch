@@ -1,2 +1,2 @@
 # basic-transformer-architecture-from-scratch
-a test
+This is a Transformer model which is built from the basic torch function without nn.MultiheadAttention,nn.CrossEntropyLoss and so on
